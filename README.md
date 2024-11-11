@@ -1,5 +1,7 @@
 # Music Recommendation System on Spotify
 
+## Dataset: [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset)
+
 <img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1731325452/Spotify.jpg" alt="Spotify" width="800"/>
 
 This project implements a music recommendation system using data from **Spotify**. The system recommends personalized tracks based on users' listening preferences, leveraging machine learning and data analysis techniques.
